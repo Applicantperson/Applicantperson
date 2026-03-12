@@ -12,14 +12,17 @@ I'm a Senior Full-Stack Developer with 4+ years of experience building modern we
 **Backend:** REST APIs, Flask, FastAPI  
 **Database:** PostgreSQL, SQLite  
 **Tools:** Git, Docker, CI/CD
-Currently
-Improving system architecture and scalable backend solutions
-Building modern web applications
-Collaboration
 
-I'm open to remote opportunities, freelance projects, and interesting collaborations.
+### Currently
+- Improving system architecture and scalable backend solutions  
+- Building modern web applications  
+
 ---
-Contact
+
+### Collaboration
+I'm open to **remote opportunities**, freelance projects, and interesting collaborations.
+---
+### Contact
 GitHub: https://github.com/applicantperson
 
 
