@@ -1,18 +1,12 @@
 ### Hi there 
 
-I'm a Senior Full-Stack Developer with 4+ years of experience building modern web applications.
+I'm a Senior Developer with 4+ years of experience building applications.
 
 ### About Me
 - Full-Stack Developer focused on scalable and high-performance web applications
 - Strong experience in both frontend and backend development
 - Passionate about clean architecture, performance optimization, and user experience
-
-### Tech Stack
-**Frontend:** Vue, HTML, CSS, React  
-**Backend:** Python, REST APIs, Flask, FastAPI, Pyramid, Django    
-**Database:** PostgreSQL, SQLite  
-**Tools:** Git, Docker, CI/CD
-
+  
 ### Currently
 - Improving system architecture and scalable backend solutions  
 - Building modern web applications  
