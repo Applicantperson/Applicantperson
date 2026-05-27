@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm a Senior Developer with 6+ years of experience building applications.
+I'm a Senior Developer with 4+ years of experience building applications.
 
 ### About Me
 - Full-Stack Developer focused on scalable and high-performance web applications
